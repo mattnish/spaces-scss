@@ -19,6 +19,8 @@ pam-xs = "padding all medium (at extra small screensize)"
 
 pal-xs = "padding all large (at extra small screensize)"
 
+paxl-xs = "padding all extra large (at extra small screensize)"
+
 
 **Possible directions:** all/top/right/bottom/left
 
