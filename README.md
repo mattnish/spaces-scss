@@ -24,7 +24,7 @@ paxl-xs = "padding all extra large (at extra small screensize)"
 
 **Possible directions:** all/top/right/bottom/left
 
-**Possible breakpoints:** xs, sm, md, lg
+**Possible breakpoints:** xs, sm, md, lg, xl
 
 
 ## Examples:
