@@ -32,10 +32,6 @@ $xl: 40px;
   padding: $l;
 }
 
-.paxl, .paxl-xs {
-  padding: $xl;
-}
-
 .ptn, .ptn-xs {
   padding-top: 0;
 }
@@ -112,7 +108,7 @@ $xl: 40px;
   padding-left: 0;
 }
 
-.plx, .plx-xs {
+.pxl, .pxl-xs {
   padding-left: $x;
 }
 
@@ -128,7 +124,7 @@ $xl: 40px;
   padding-left: $l;
 }
 
-.plxl, .plxl-xs {
+.pxll, .pxll-xs {
   padding-left: $xl;
 }
 
@@ -208,7 +204,7 @@ $xl: 40px;
   margin-left: 0px;
 }
 
-.mlx, .mlx-xs {
+.mxl, .mxl-xs {
   margin-left: $x;
 }
 
@@ -224,7 +220,7 @@ $xl: 40px;
   margin-left: $l;
 }
 
-.mlxl, .mlxl-xs {
+.mxll, .mxll-xs {
   margin-left: $xl;
 }
 
@@ -329,7 +325,7 @@ $xl: 40px;
     padding-left: 0;
   }
 
-  .plx-sm {
+  .pxl-sm {
     padding-left: $x;
   }
 
@@ -345,7 +341,7 @@ $xl: 40px;
     padding-left: $l;
   }
 
-  .plxl-sm {
+  .pxll-sm {
     padding-left: $xl;
   }
 
@@ -425,7 +421,7 @@ $xl: 40px;
     margin-left: 0px;
   }
 
-  .mlx-sm {
+  .mxl-sm {
     margin-left: $x;
   }
 
@@ -441,7 +437,7 @@ $xl: 40px;
     margin-left: $l;
   }
 
-  .mlxl-sm {
+  .mxll-sm {
     margin-left: $xl;
   }
 }
@@ -546,7 +542,7 @@ $xl: 40px;
     padding-left: 0;
   }
 
-  .plx-md {
+  .pxl-md {
     padding-left: $x;
   }
 
@@ -562,7 +558,7 @@ $xl: 40px;
     padding-left: $l;
   }
 
-  .plxl-md {
+  .pxll-md {
     padding-left: $xl;
   }
 
@@ -642,7 +638,7 @@ $xl: 40px;
     margin-left: 0px;
   }
 
-  .mlx-md {
+  .mxl-md {
     margin-left: $x;
   }
 
@@ -658,7 +654,7 @@ $xl: 40px;
     margin-left: $l;
   }
 
-  .mlxl-md {
+  .mxll-md {
     margin-left: $xl;
   }
 }
@@ -763,7 +759,7 @@ $xl: 40px;
     padding-left: 0;
   }
 
-  .plx-lg {
+  .pxl-lg {
     padding-left: $x;
   }
 
@@ -779,7 +775,7 @@ $xl: 40px;
     padding-left: $l;
   }
 
-  .plxl-lg {
+  .pxll-lg {
     padding-left: $xl;
   }
 
@@ -859,7 +855,7 @@ $xl: 40px;
     margin-left: 0px;
   }
 
-  .mlx-lg {
+  .mxl-lg {
     margin-left: $x;
   }
 
@@ -875,7 +871,7 @@ $xl: 40px;
     margin-left: $l;
   }
 
-  .mlxl-lg {
+  .mxll-lg {
     margin-left: $xl;
   }
 }
